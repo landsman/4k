@@ -2,16 +2,9 @@
 
 Google Chrome extension
 
-<img src="./doc/repository-open-graph.jpg" alt="wow" />
-
-## Preview
-
-<img src="./doc/before.png" alt="Before my extension" />
-<p style="text-align: center;">Before my extension</p>
-
-<img src="./doc/after.png" alt="After my extension" />
-<p style="text-align: center;">After my extension!</p>
+![Preview](./doc/repository-open-graph.jpg)
 
 ## How to...?
 
-Check this: [How to load Chrome extension](https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/)
+1. download zip
+2. follow this tutorial: [How to load Chrome extension](https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/)
