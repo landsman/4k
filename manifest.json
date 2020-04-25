@@ -1,7 +1,10 @@
 {
     "manifest_version": 2,
     "name": "4K Extension",
-    "version": "0.1",
+    "version": "0.2",
+    "author": "Michal Landsman",
+    "description": "🔍 Google Chrome extension for centered Google Search results! See more: https://github.com/landsman/4k",
+    "homepage_url": "https://github.com/landsman/4k",
     "content_scripts": [
         {
             "matches": ["https://www.google.com/search?*"],
