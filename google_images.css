@@ -1,0 +1,77 @@
+/*
+*
+* apply styles hacks from FULL-HD and bigger
+*
+*/
+@media only screen and (min-width: 1490px) 
+{
+
+	/*
+	*
+	* search bar
+	*
+	*/
+	#sf > div.SSBXXc {
+		width: 1045px;
+		margin: 0 auto;
+	}
+
+	.zthhpf {
+		margin: 1px !important;
+	}
+
+	/*
+	*
+	* wrappers: main tabs, advanced filters
+	*
+	*/
+	#yDmH0d > div.T1diZc.KWE8qe > c-wiz > div.ndYZfc, .D0HoIc {
+		width: 1280px;
+		margin: 0 auto;
+	}
+
+	/*
+	*
+	* main tabs: all, images, videos, news, ...
+	*
+	*/
+	.iSZmU {
+		margin-left: 0px !important;
+	}
+
+	/*
+	*
+	* advanced filters: size, color, type, ...
+	*
+	*/
+	.qcTKEe {
+		padding-left: 20px !important;	
+	}
+
+	.Npn1i {
+		padding-top: 5px;
+	}
+
+	.ECgenc {
+		background: #f3f3f3 !important;
+	}
+
+	.qcTKEe {
+		background: transparent !important;
+	}
+
+	/*
+	*
+	* tags
+	*
+	*/
+	#i7 > div.FAZ4xe.FoDaAb > span {
+		align-items: center !important;
+	}
+
+	#i7 > div.FAZ4xe.FoDaAb > span > span {
+		width: 100%;
+		text-align: center;
+	}
+	
+}
