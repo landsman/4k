@@ -1,42 +1,55 @@
 /*
 *
-* core elements
+* apply styles hacks from FULL-HD and bigger
 *
 */
-#tsf {
-	margin: 0 auto;
-}
-
-#hdtb-msb {
-	max-width: 1280px;
-	margin: 0 auto;
-	float: none!important;
-}
-
-.big .mw {
-	margin: 0 auto;
-}
+@media only screen and (min-width: 1490px) 
+{
 
 
-/*
-*
-* search results counter and tools
-*
-*/
-#appbar {
-	max-width: 1280px;
-	margin: 0 auto;
-}
+	/*
+	*
+	* core elements
+	*
+	*/
+	#tsf {
+		width: 990px !important;
+		margin: 0 auto;
+	}
 
-#hdtbMenus {
-    text-align: center;
-}
+	#hdtb-msb {
+		max-width: 1280px;
+		margin: 0 auto;
+		float: none !important;
+	}
 
-#XJDHvf {
-    display: none;
-}
+	.big .mw {
+		margin: 0 auto;
+	}
 
-/* drop-down item */
-.hdtbItm {
-    text-align: left;
+
+	/*
+	*
+	* search results counter and tools
+	*
+	*/
+	#appbar {
+		max-width: 1280px;
+		margin: 0 auto;
+	}
+
+	#hdtbMenus {
+		text-align: center;
+	}
+
+	#XJDHvf {
+		display: none;
+	}
+
+	/* drop-down item */
+	.hdtbItm {
+		text-align: left;
+	}
+
+
 }
