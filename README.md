@@ -2,6 +2,8 @@
 
 Google Chrome extension
 
+<img src="./doc/repository-open-graph.jpg" alt="wow" />
+
 ## Preview
 
 <img src="./doc/before.png" alt="Before my extension" />
