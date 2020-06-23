@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "4K Extension",
-    "version": "0.3",
+    "version": "0.4",
     "author": "Michal Landsman",
     "description": "🔍 Google Chrome extension for centered pages!",
     "homepage_url": "https://github.com/landsman/4k",
@@ -18,8 +18,13 @@
             "document_end" : "document_idle"
         },
         {
-            "matches": ["https://github.com/*"],
+            "matches": ["https://github.com/*/*"],
             "css": ["src/css/github_repository.css"],
+            "document_end" : "document_idle"
+        },
+        {
+            "matches": ["https://github.com/*"],
+            "css": ["src/css/github_organization.css"],
             "document_end" : "document_idle"
         },
         {

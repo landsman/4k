@@ -1,0 +1,18 @@
+/*
+*
+* apply styles hacks from FULL-HD and bigger
+*
+*/
+@media only screen and (min-width: 1490px) 
+{
+
+    /*
+	*
+	* organization header (logo, location, web, email, ...)
+	*
+    */
+    #js-pjax-container > div > header > div.container-lg.pt-4.pt-lg-0.p-responsive.clearfix {
+        max-width: 1012px;
+    }
+
+}
