@@ -9,12 +9,22 @@
         {
             "matches": ["https://*.google.com/search?*"],
             "exclude_matches": ["https://*.google.com/search?*tbm=*"],
-            "css": ["google_search.css"],
+            "css": ["src/css/google_search.css"],
             "document_end" : "document_idle"
         },
         {
             "matches": ["https://*.google.com/search?*tbm=*"],
-            "css": ["google_images.css"],
+            "css": ["src/css/google_images.css"],
+            "document_end" : "document_idle"
+        },
+        {
+            "matches": ["https://github.com/*"],
+            "css": ["src/css/github_repository.css"],
+            "document_end" : "document_idle"
+        },
+        {
+            "matches": ["https://github.com/"],
+            "css": ["src/css/github_hp.css"],
             "document_end" : "document_idle"
         }
     ],
