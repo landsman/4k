@@ -1,0 +1,20 @@
+/*
+*
+* apply styles hacks from FULL-HD and bigger
+*
+*/
+@media only screen and (min-width: 1490px) 
+{
+
+    /*
+	*
+	* feed - recent activity, all activity, ...
+	*
+    */
+    body > div.application-main > div > div {
+        max-width: 800px;
+        margin: 0 auto;
+    }
+
+    
+}
