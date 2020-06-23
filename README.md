@@ -1,6 +1,7 @@
-# Google Search centered
+# Centered pages again!
 
-Google Chrome extension
+Google Chrome extension.
+Useful for FHD+ screens.
 
 ![Preview](./doc/repository-open-graph.jpg)
 
@@ -8,3 +9,9 @@ Google Chrome extension
 
 1. download zip
 2. follow this tutorial: [How to load Chrome extension](https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/)
+
+## Resolving
+
+- Google Search
+- Google Images
+- Github
