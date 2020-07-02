@@ -39,8 +39,7 @@
 	* bring back hidden tabs: Insights, Settings
 	*
     */
-    #js-repo-pjax-container > div.pagehead.repohead.hx_repohead.readability-menu.bg-gray-light.pb-0.pt-3.border-0.mb-5 > nav > ul > li:nth-child(8) > a,
-    #js-repo-pjax-container > div.pagehead.repohead.hx_repohead.readability-menu.bg-gray-light.pb-0.pt-3.border-0.mb-5 > nav > ul > li:nth-child(9) > a {
+    #js-repo-pjax-container > div.pagehead.repohead.hx_repohead.readability-menu.bg-gray-light.pb-0.pt-3.border-0.mb-5 > nav > ul > li > a {
         visibility: visible !important;
     }
 
